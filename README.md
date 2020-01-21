@@ -27,5 +27,16 @@ Build a simple application that call this API, and display the data with followi
 
 ## Screenshot
 
+![alt text](https://github.com/demmydwi/demmy-flutter-tech-task/blob/master/ss/home_error.jpeg "Error")
+![alt text](https://github.com/demmydwi/demmy-flutter-tech-task/blob/master/ss/home_loaded.jpeg "Loaded")
+![alt text](https://github.com/demmydwi/demmy-flutter-tech-task/blob/master/ss/home_loading.jpeg "Loading")
+![alt text](https://github.com/demmydwi/demmy-flutter-tech-task/blob/master/ss/home_no_inet.jpeg "No Internet")
+![alt text](https://github.com/demmydwi/demmy-flutter-tech-task/blob/master/ss/home_url_launcher.jpeg "URL Launcher")
+![alt text](https://github.com/demmydwi/demmy-flutter-tech-task/blob/master/ss/launcher.jpeg "Launcher")
+![alt text](https://github.com/demmydwi/demmy-flutter-tech-task/blob/master/ss/min_sdk.jpeg "Min SDK")
+![alt text](https://github.com/demmydwi/demmy-flutter-tech-task/blob/master/ss/widget_test.jpeg "Widget Test Result")
+![alt text](https://github.com/demmydwi/demmy-flutter-tech-task/blob/master/ss/unit_test.jpeg "Unit Test Result")
+
+
 
 
