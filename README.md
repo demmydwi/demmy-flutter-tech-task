@@ -25,6 +25,11 @@ Build a simple application that call this API, and display the data with followi
 - [x] Covered by Unit Test & Widget Test
 - [x] Using Provider State Management
 
+
+
+## File APK
+- [Click to download](https://i.diawi.com/RSNVwd "APK File")
+
 ## Screenshot
 
 ![alt text](https://github.com/demmydwi/demmy-flutter-tech-task/blob/master/ss/launcher.jpeg "Launcher")
